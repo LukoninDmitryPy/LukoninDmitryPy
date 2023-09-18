@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" align="center" style="width: 50%" />
 </div>  
   
 
@@ -20,7 +20,7 @@
 
 
 
-### Frontend  
+### Frontend as reading  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -42,7 +42,8 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://storage.googleapis.com/replit/images/1678389482399_2c4b63c84cd508867435e64ce6545181.png" alt="Flask" height="40" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -66,7 +67,10 @@
 <div align="center">
 <a href="https://github.com/LukoninDmitryPy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://github.com/LukoninDmitryPy" target="_blank">
+<img src=https://static.tildacdn.com/tild3966-6462-4265-a266-313038613034/Group_1.png alt=github height="30" />
+</a>
 </div>  
   
 
@@ -99,6 +103,3 @@ If things goes well, this section should automatically be replaced by a list of 
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
