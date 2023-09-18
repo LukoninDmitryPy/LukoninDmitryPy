@@ -77,7 +77,7 @@
 <a href="https://github.com/LukoninDmitryPy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/LukoninDmitryPy" target="_blank">
+<a href="https://t.me/folite999" target="_blank">
 <img src=https://static.tildacdn.com/tild3966-6462-4265-a266-313038613034/Group_1.png alt=github height="30" />
 </a>
 </div>  
