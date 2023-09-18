@@ -6,7 +6,7 @@
 ### <div align="center">I'm Dmitry, a backend developer from Russia</div>  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to backend stack and related technologies  
   
 
 - ⚡ Fun fact: I never use PyCharm  
@@ -80,15 +80,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukoninDmitryPy&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
+<br/> 
 
   
 
@@ -97,9 +89,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=LukoninDmitryPy&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-
-<br />
